@@ -1,0 +1,14 @@
+body{
+    background: #F8E8A6;
+    display: block;
+    text-align: center;
+}
+
+a{
+    color: green;
+}
+
+img{
+    max-width: 600px;
+    border-radius: 4px;
+}
