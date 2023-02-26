@@ -1,22 +1,24 @@
-body{
-    background: #F8E8A6;
-    display: block;
-    text-align: center;
+body {
+  background: #f8e8a6;
+  display: block;
+  text-align: center;
 }
 
-a{
-    color: green;
+a {
+  color: green;
+  margin: 10px;
 }
 
-img{
-    max-width: 600px;
-    border-radius: 4px;
+img {
+  max-width: 600px;
+  border-radius: 4px;
 }
 
-footer{
-    display: block;
+footer {
+  text-align: center;
+  margin: 10px 20px;
 }
 
-.contact-email{
-    color: blue;
+.contact-email {
+  color: blue;
 }
