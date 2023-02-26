@@ -12,3 +12,11 @@ img{
     max-width: 600px;
     border-radius: 4px;
 }
+
+footer{
+    display: block;
+}
+
+.contact-email{
+    color: blue;
+}
